@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://66.media.tumblr.com/9eff17a27e59fec716cf8fb8b19beb5d/tumblr_oh9rn8zxUU1qgwefso1_540.gifv)
 
 <!--
 **PandaWhoCodes/PandaWhoCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -30,13 +30,13 @@ Passionate about building scalable systems, AI-powered applications, and automat
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pandawhocodes&theme=tokyonight&hide_border=true&background=0D1117&ring=4AB197&fire=4AB197&currStreakLabel=4AB197)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=pandawhocodes&theme=tokyonight&hide_border=true&background=0D1117&ring=4AB197&fire=4AB197&currStreakLabel=4AB197)](https://github.com/pandawhocodes)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pandawhocodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4AB197&line=4AB197&point=c9cacc)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pandawhocodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4AB197&line=4AB197&point=c9cacc)](https://github.com/pandawhocodes)
 
 </div>
 
